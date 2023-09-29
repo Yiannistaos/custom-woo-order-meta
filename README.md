@@ -31,7 +31,7 @@ This plugin is licensed under [GNU General Public License v2.0](https://www.gnu.
 
 ## Contributing
 
-Contributions are welcome! For bug reports or feature requests, please [open an issue](#LINK-TO-YOUR-ISSUE-TRACKER) and follow the guidelines.
+Contributions are welcome! For bug reports or feature requests, please [open an issue](https://github.com/Yiannistaos/custom-woo-order-meta/issues/new) and follow the guidelines.
 
 ## Contact
 
